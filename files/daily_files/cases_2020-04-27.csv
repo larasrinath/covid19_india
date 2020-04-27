@@ -1,0 +1,33 @@
+rowid,state,confirmed,recovered,dead,active
+1,Andaman and Nicobar,33,11,0,22
+2,Andhra Pradesh,1177,235,31,911
+3,Arunachal Pradesh,1,1,0,0
+4,Assam,36,27,1,8
+5,Bihar,277,56,2,219
+6,Chandigarh,30,17,0,13
+7,Chhattisgarh,37,32,0,5
+8,Delhi,2918,877,54,1987
+9,Goa,7,7,0,0
+10,Gujarat,3301,313,151,2837
+11,Haryana,289,176,3,110
+12,Himachal Pradesh,40,22,1,17
+13,Jammu and Kashmir,523,137,6,380
+14,Jharkhand,82,13,3,66
+15,Karnataka,511,188,20,303
+16,Kerala,469,342,4,123
+17,Ladakh,20,14,0,6
+18,Madhya Pradesh,2168,302,106,1760
+19,Maharashtra,8068,1188,342,6538
+20,Manipur,2,2,0,0
+21,Meghalaya,12,0,1,11
+22,Mizoram,1,0,0,1
+23,Odisha,108,35,1,72
+24,Puducherry,8,3,0,5
+25,Punjab,313,71,18,224
+26,Rajasthan,2185,518,41,1626
+27,Tamil Nadu,1885,1020,24,841
+28,Telengana,1002,280,26,696
+29,Tripura,2,2,0,0
+30,Uttarakhand,51,33,0,18
+31,Uttar Pradesh,1955,335,31,1589
+32,West Bengal,649,105,20,524

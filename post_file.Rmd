@@ -1,0 +1,51 @@
+---
+title: "Corona-virus Outbreak in India"
+author: "Lara Srinath"
+date: "2020-04-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**India** is country with a population of 1.3 billion. Contagious diseases are very easy to spread in densely populated areas of the country.
+The first reported case of corona-virus was on Jan 30, 2020 and it took more than 2 months to cross the first 100 reported case in the country. 
+
+As for what came later is a surge in wide spread of the pandemic, with more than 14000 cases reported all over the country as of Apr 18, 2020.
+
+A graphical view of daily rise in cases,
+
+```{r chart, echo = FALSE, message=FALSE,warning = FALSE, results='asis'}
+
+source("C:/Users/laras/Documents/R/Projects/covid19_india/cont_data.r")
+
+p
+
+
+```
+
+Maharashtra has around 3200 reported, the most in the country.With one of the most densely populated cities Mumbai, as its capital, the concerns on spread of the virus is very much higher.
+
+
+```{r map, echo = FALSE, message=FALSE,warning = FALSE, results='asis'}
+
+source("C:/Users/laras/Documents/R/Projects/covid19_india/cont_data.r")
+source("C:/Users/laras/Documents/R/Projects/covid19_india/map.r")
+
+india_map
+
+gt_tbl
+
+```
+
+## Comparison with Countries
+
+```{r chart3, echo = FALSE, message=FALSE,warning = FALSE, results='asis'}
+
+source("C:/Users/laras/Documents/R/Projects/covid19_india/cont_data.r")
+
+cmp_plot
+
+
+```
